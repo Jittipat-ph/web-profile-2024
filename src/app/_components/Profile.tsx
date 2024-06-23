@@ -16,20 +16,20 @@ const Profile = (props: Props) => {
         />
       </div>
       <div className="text-center">
-        <h1 className="text-2xl font-bold">Hako Baelz</h1>
-        <p className="text-base">RRat</p>
+        <h1 className="text-2xl font-bold">Jittipat Phedseng</h1>
+        <p className="text-base">Software Engineer</p>
       </div>
 
-      <div className="py-10 text-center ">"JDON My Soul"</div>
+      <div className="py-10 text-center ">"JDON My Code"</div>
       <div className="p-6 mx-1 xl:mx-6 bg-blue-300 rounded-md">
         <p>
-          <b>Age:</b> 14 (not really)
+          <b>Age:</b> 21
         </p>
         <p>
           <b>Status:</b> Single
         </p>
         <p>
-          <b>Location:</b> Japan
+          <b>Location:</b> Nakhon Si Thammarat
         </p>
       </div>
     </div>
