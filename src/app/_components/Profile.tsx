@@ -12,7 +12,7 @@ const Profile = (props: Props) => {
           // width={500}
           // height={500}
           alt="profile picture"
-          className="w-3/4 aspect-square rounded-full border-4 border-white"
+          className="w-3/4 aspect-square rounded-full border-4 border-white object-cover"
         />
       </div>
       <div className="text-center">
