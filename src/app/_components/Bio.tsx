@@ -7,15 +7,11 @@ const Bio = (props: Props) => {
   return (
     <Card title="Bio">
       <div>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
+        Jittipat Phedseng is currently a 4th year undergraduate in Computer Engineering and Artificial
+        Intelligence at Walailak University. He participated in TESA Top Gun Rally 2023 in team `Future
+        Foragers`. Currently, he is working on a project aim to detect bedridden patient emotions by predicting from Physiological Signal, focus on
+        Electrodermal-activity (EDA), using the combination between Artificial Intelligence and IoT
+        device.
       </div>
     </Card>
   );
