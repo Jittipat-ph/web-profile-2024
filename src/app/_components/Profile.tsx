@@ -8,7 +8,7 @@ const Profile = (props: Props) => {
     <div className="bg-blue-100 h-full p-4 rounded-xl px-4">
       <div className="flex justify-center items-center pt-4 pb-2">
         <img
-          src="https://media.tenor.com/1EhdUZSVCo8AAAAM/hakos_baelz-holo_council.gif"
+          src="https://drive.google.com/thumbnail?id=1O1g_gL7KqORHOvr-OagCXhXvGzCo8sJB"
           // width={500}
           // height={500}
           alt="profile picture"
